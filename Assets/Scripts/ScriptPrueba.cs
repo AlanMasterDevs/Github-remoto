@@ -1,18 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class ScriptPrueba : MonoBehaviour
-{
-    // Start is called before the first frame update
-    void Start()
-    {
-
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:549ac334a1e2f5c60fb187e195f4d9262ee2dba1a76edcd6291555af6bcb56d1
+size 288
